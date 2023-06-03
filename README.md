@@ -5,7 +5,9 @@
 ![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
-![tryhackme stats](https://raw.githubusercontent.com/Ridful/Ridful/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ridful.png)
+
+<!--![tryhackme stats](https://raw.githubusercontent.com/Ridful/Ridful/master/assets/thm_propic.png)-->
 
 <!--![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=github_dark)-->
 
