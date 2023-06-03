@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=github_dark)-->
+
+
+
 <!--
 **Ridful/Ridful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
