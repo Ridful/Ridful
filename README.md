@@ -2,8 +2,8 @@
 
 > **Check Out**  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ridful5)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/Ridful5)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://twitter.com/Ridful5)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Ridful)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@vlan)
 
 > **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 <hr>
 
 ![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/Ridful?tab=repositories)
 
 <!--![tryhackme stats](https://raw.githubusercontent.com/Ridful/Ridful/master/assets/thm_propic.png)-->
 
