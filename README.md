@@ -16,7 +16,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 > **TryHackMe**  
-[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ridful.png)](https://tryhackme.com/p/Ridful)
+[![tryhackme stats](https://i.imgur.com/uPc5XIc.png)](https://tryhackme.com/p/Ridful)
+<!--[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ridful.png)](https://tryhackme.com/p/Ridful)-->
+
 
 <hr>
 
