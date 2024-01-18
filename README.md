@@ -15,11 +15,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-> **TryHackMe**  
-[![tryhackme stats](https://i.imgur.com/uPc5XIc.png)](https://tryhackme.com/p/Ridful)
-<!--[![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Ridful.png)](https://tryhackme.com/p/Ridful)-->
-
-
 <hr>
 
 ![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
