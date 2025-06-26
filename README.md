@@ -1,4 +1,8 @@
-# Hello 👋
+# 👋 Hello, I'm Ridful 
+
+🛡️ Ethical Hacker | Aspiring Pentester | CTF Enthusiast | Programmer 🛡️
+
+This space is where I keep my personal projects, tools, and experiments.
 
 > **Check Out**  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ridful5)
