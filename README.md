@@ -20,6 +20,7 @@ This space is where I keep my personal projects, tools, and experiments.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <hr>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ridful.png" alt="Your Image Badge" />
 
 ![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/Ridful?tab=repositories)
