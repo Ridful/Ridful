@@ -5,7 +5,7 @@
 This space is where I keep my personal projects, tools, and experiments.
 
 > **Check Out**  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]((https://twitter.com/Ridful5))
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/Ridful5)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@Ridful)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vlan)
 
