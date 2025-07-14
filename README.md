@@ -19,6 +19,7 @@ This space is where I keep my personal projects, tools, and experiments.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![PowerShell](https://img.shields.io/badge/PowerShell-1989b8)](#)
 
 > **Other**  
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
@@ -42,10 +43,11 @@ This space is where I keep my personal projects, tools, and experiments.
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 <hr>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ridful.png" alt="Your Image Badge" />
 
 ![Ridful's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridful&show_icons=true&theme=codeSTACKr&hide=prs,issues,contribs&rank_icon=github&ring_color=FF4455&line_height=30&card_width=420&text_bold&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridful&layout=compact&theme=codeSTACKr&card-width=420&line_height=30)](https://github.com/Ridful?tab=repositories)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ridful&theme=monokai-metallian&border_radius=0&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--![tryhackme stats](https://raw.githubusercontent.com/Ridful/Ridful/master/assets/thm_propic.png)-->
 
