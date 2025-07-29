@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ridful 
+# 👋 Hello! I'm Ridful 
 
 🛡️ Ethical Hacker | Aspiring Pentester | CTF Enthusiast | Programmer 🛡️
 
