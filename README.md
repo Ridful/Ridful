@@ -1,5 +1,7 @@
 # 👋 Hello! I'm Ridful 
 
+CTF Player in [🚩W4llz](https://w4llz.me/)
+
 🛡️ Ethical Hacker | CTF Enthusiast | Programmer 🛡️
 
 https://tryhackme.com/p/Ridful
