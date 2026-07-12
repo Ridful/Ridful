@@ -1,12 +1,16 @@
 # 👋 Hello! I'm Ridful 
 
-CTF Player in [🚩W4llz](https://w4llz.me/)
-
 🛡️ Ethical Hacker | CTF Enthusiast | Programmer 🛡️
 
-https://tryhackme.com/p/Ridful
+CTF Player in [🚩W4llz](https://w4llz.me/) (International Team)
+
+CTF Player in [🚩Dunderpatrullen](https://dunderpatrullen.org/) (Swedish/Local Team)
+
+THM Profile: https://tryhackme.com/p/Ridful
 
 This space is where I keep my personal projects, tools, and experiments.
+
+<hr>
 
 > **Check Out**  
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/0xRidful)
@@ -32,19 +36,6 @@ This space is where I keep my personal projects, tools, and experiments.
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-
-> **Code Editor**  
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-
-> **OS**  
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 <hr>
 
