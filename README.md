@@ -2,9 +2,9 @@
 
 🛡️ Ethical Hacker | CTF Enthusiast | Programmer 🛡️
 
-CTF Player in [🚩W4llz](https://w4llz.me/) (International Team)
+CTF Player in [🚩W4llz](https://w4llz.me/) (International Team) (Top 3 World)
 
-CTF Player in [🚩Dunderpatrullen](https://dunderpatrullen.org/) (Swedish/Local Team)
+CTF Player in [🚩Dunderpatrullen](https://dunderpatrullen.org/) (Swedish/Local Team) (Top 1 Sweden)
 
 THM Profile: https://tryhackme.com/p/Ridful
 
