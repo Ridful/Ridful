@@ -10,6 +10,8 @@ THM Profile: https://tryhackme.com/p/Ridful
 
 This space is where I keep my personal projects, tools, and experiments.
 
+October 2026 - Microsoft Special Mentions
+
 <hr>
 
 > **Check Out**  
