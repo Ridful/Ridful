@@ -12,6 +12,8 @@ This space is where I keep my personal projects, tools, and experiments.
 
 October 2026 - Microsoft Special Mentions
 
+October 2026 - CVE-2026-113799 in slack-morphism-rust
+
 <hr>
 
 > **Check Out**  
